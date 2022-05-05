@@ -3,9 +3,7 @@ import uvicorn
 import src.codigos
 
 from src.conexao import trends_collection
-from fastapi import FastAPI
 from src.servicos import get_trends
-from pydantic import BaseModel
 from typing import Any, Dict, List
 from pymongo import MongoClient
 from datetime import datetime
