@@ -9,5 +9,3 @@ Informações relevantes para que o código e relatório consigam ser executados
 2 - Para a execução do código é necessário que tenha instalado na máquina o Docker Dektop. Para a instalação, seguir os passos na url https://docs.docker.com/desktop/windows/install/
 
 3 - Como o MongoDB é um banco NoSQL e os dados desta aplicação são armazenados em arquivo JSON é necessária a instalação de conectores ODBC para que seja criado um schema que o PowerBI saiba ler.
-
-Por fim, estarei tentando sempre melhorar, e adicionar recursos na aplicação.
